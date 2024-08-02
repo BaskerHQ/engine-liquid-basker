@@ -1,5 +1,5 @@
 {
-  "name": "@altanddot/engine-liquid",
+  "name": "@stageblocks/engine-liquid",
   "description": "The Liquid engine for Pattern Lab / Node",
   "version": "5.14.0",
   "main": "lib/engine_liquid.js",
