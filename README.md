@@ -20,3 +20,7 @@ This PatternEngine is in alpha and considered a work in progress.
 * [ ] [Pattern States](https://patternlab.io/docs/using-pattern-states/)
 * [ ] [Pattern Parameters](https://patternlab.io/docs/using-pattern-parameters/)
 * [ ] [Style Modifiers](https://github.com/pattern-lab/patternlab-node/issues/1177)
+
+## Credits
+
+This package is a fork of the original [Pattern Lab Node](https://github.com/pattern-lab/patternlab-node) project. Thanks to [Cameron Roe](https://github.com/cameronroe), [altanddot](https://github.com/altanddot/engine-liquid-shopify), and all the [Pattern Lab contributors](https://github.com/pattern-lab/patternlab-node/graphs/contributors) for their work.

@@ -1,6 +1,6 @@
 {
-  "name": "@stageblocks/engine-liquid",
-  "description": "The Liquid engine for Pattern Lab / Node",
+  "name": "@baskerhq/engine-liquid",
+  "description": "A Liquid engine for Pattern Lab / Node",
   "version": "5.14.0",
   "main": "lib/engine_liquid.js",
   "dependencies": {
@@ -17,9 +17,26 @@
     "Javascript",
     "Liquid"
   ],
-  "repository": "https://github.com/pattern-lab/patternlab-node/tree/master/packages/engine-liquid",
-  "bugs": "https://github.com/pattern-lab/patternlab-node/issues",
-  "author": "Cameron Roe",
+  "repository": "https://github.com/BaskerHQ/engine-liquid",
+  "bugs": "https://github.com/BaskerHQ/engine-liquid/issues",
+  "author": {
+    "name": "Sealan Cronin",
+    "email": "shay@basker.io",
+    "url": "https://basker.io"
+  },
+  "contributors": [
+    {
+      "name": "Cameron Roe"
+    },
+    {
+      "name": "Pattern Lab Contributors",
+      "url": "https://github.com/pattern-lab/patternlab-node/graphs/contributors"
+    },
+    {
+      "name": "altanddot",
+      "url": "https://github.com/altanddot/engine-liquid-shopify"
+    }
+  ],
   "license": "MIT",
   "scripts": {},
   "engines": {
